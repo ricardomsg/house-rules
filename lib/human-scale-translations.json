@@ -1,0 +1,23 @@
+{
+  "HUMAN SCALE": "ESCALA HUMANA",
+  "Give one example that fits your secret position. Listen to everyone, then privately order the whole group from left to right. Include yourself.": "Dá um exemplo que corresponda à tua posição secreta. Ouve todos e depois ordena o grupo inteiro, em privado, da esquerda para a direita. Inclui-te a ti.",
+  "Never say your number. Each correctly ordered pair earns one point, even if neither player is in the exact slot.": "Nunca digas o teu número. Cada par na ordem relativa certa vale um ponto, mesmo que nenhum dos dois esteja na posição exata.",
+  "OF {total}": "DE {total}",
+  "Read your position and give your example. The host can open the private ordering.": "Vê a tua posição e dá o teu exemplo. O anfitrião pode abrir a ordenação individual.",
+  "YOUR PRIVATE ORDER": "A TUA ORDEM SECRETA",
+  "Top means the left end of the scale. Move players with the arrows; nobody else sees your draft.": "O topo corresponde à esquerda da escala. Move os jogadores com as setas; mais ninguém vê o teu rascunho.",
+  "Move {name} toward the left end": "Mover {name} para a esquerda da escala",
+  "Move {name} toward the right end": "Mover {name} para a direita da escala",
+  "ORDER SEALED. The reveal starts when everyone has submitted.": "ORDEM GUARDADA. As respostas são reveladas quando todos tiverem enviado.",
+  "SEAL MY ORDER →": "GUARDAR A MINHA ORDEM →",
+  "WHO HAS SUBMITTED": "QUEM JÁ ENVIOU",
+  "Ready ✓": "Pronto ✓",
+  "Still ordering": "Ainda a ordenar",
+  "{submitted} of {total} orders sealed": "{submitted} de {total} ordens guardadas",
+  "{correct} of {total} pairs correct": "{correct} de {total} pares certos",
+  "No order submitted this round: 0 points.": "Não enviaste uma ordem nesta ronda: 0 pontos.",
+  "Every pair counts once. Maximum this round: {total} points.": "Cada par conta uma vez. Máximo nesta ronda: {total} pontos.",
+  "No order submitted": "Não enviou uma ordem",
+  "NEXT SCALE →": "PRÓXIMA ESCALA →",
+  "OPEN PRIVATE ORDERING →": "ABRIR ORDENAÇÃO INDIVIDUAL →"
+}

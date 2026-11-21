@@ -1,0 +1,18 @@
+{
+  // Generic template, used as-is for local Worker development. It deliberately
+  // holds no account, zone, database or route IDs. To deploy, copy it to the
+  // git-ignored wrangler.production.jsonc and add your own values (see README).
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "house-rules",
+  "main": "vinext/server/app-router-entry",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "vars": { "SITE_ORIGIN": "http://localhost:3102" },
+  "observability": { "enabled": true },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "house-rules",
+    "migrations_dir": "drizzle"
+  }]
+}
